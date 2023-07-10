@@ -1,0 +1,18 @@
+hello 
+
+git password 
+
+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
+
+
+
+
+--------------
+
+git clone https://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@github.com/amnabara287/zero_day.git
+http
+root@896cf839cf9a:/alx-pre_course# git config --global user.email amnabaara287@gmail.com
+root@896cf839cf9a:/alx-pre_course# git config --global user.name  Amna Bara
+
+git add . && git commit -m "My first commit" && git push origin 
+#!/bin/bash
